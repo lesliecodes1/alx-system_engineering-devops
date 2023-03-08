@@ -7,4 +7,5 @@ Script 5 - I display current directory contents, including hidden files with use
 Script 6 - I create a directory in the /tmp/ directory   
 Script 7 - I move /tmp/betty to /tmp/my_first_directory/   
 Script 8 - I delete file betty in /tmp/my_first_directory   
+Script 9 - I delete directory /tmp/my_first_dirrectory/   
 
