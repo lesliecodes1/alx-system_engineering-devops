@@ -6,4 +6,5 @@ Script 4 - I display current directory contents, including hidden files in long 
 Script 5 - I display current directory contents, including hidden files with user and group IDs displayed numerically   
 Script 6 - I create a directory in the /tmp/ directory   
 Script 7 - I move /tmp/betty to /tmp/my_first_directory/   
+Script 8 - I delete file betty in /tmp/my_first_directory   
 
