@@ -8,4 +8,5 @@ Script 6 - I add multiple permissions to the owner, group and other users of the
 Script 7 - I add execute permissions to everybody on the file hello     
 Script 8 - I give other users all permissions and remove them from owner and groups    
 Script 9 - I add write permission to other users on the file hello    
+Script 10 - I mirror one file's permissions to another    
 
