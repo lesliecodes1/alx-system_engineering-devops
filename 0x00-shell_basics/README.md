@@ -14,4 +14,5 @@ Script 12 - I print the type of file /tmp/iamafile
 Script 13 - I create a symbolic link to /bin/ls in current directory   
 Script 14 - I copy HTML files, only if they don't exist in destination or are newer versions   
 Script 15 - I move all filenames beginning with an uppercase letter to /tmp/u   
+Script 16 - I delete al files in current directory ending with ~    
 
