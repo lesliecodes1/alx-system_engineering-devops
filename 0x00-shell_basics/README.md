@@ -12,4 +12,5 @@ Script 10 - I change working directory to previous one
 Script 11 - I list all files, including hidden ones, in current directory, in parent of working directory, and /boot/ directory, in long format    
 Script 12 - I print the type of file /tmp/iamafile    
 Script 13 - I create a symbolic link to /bin/ls in current directory   
+Script 14 - I copy HTML files, only if they don't exist in destination or are newer versions   
 
