@@ -6,5 +6,5 @@ Script 4 - I create an empty file, hello
 Script 5 - I add execute permission to the owner of the file hello    
 Script 6 - I add multiple permissions to the owner, group and other users of the file hello    
 Script 7 - I add execute permissions to everybody on the file hello     
-
+Script 8 - I give other users all permissions and remove them from owner and groups    
 
