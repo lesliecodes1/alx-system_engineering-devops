@@ -10,4 +10,5 @@ Script 8 - I delete file betty in /tmp/my_first_directory
 Script 9 - I delete directory /tmp/my_first_dirrectory/   
 Script 10 - I change working directory to previous one   
 Script 11 - I list all files, including hidden ones, in current directory, in parent of working directory, and /boot/ directory, in long format    
+Script 12 - I print the type of file /tmp/iamafile   
 
