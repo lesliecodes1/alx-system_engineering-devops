@@ -12,4 +12,5 @@ Script 10 - I mirror one file's permissions to another
 Script 11 - I add execute permissions to all subdirectories in current directory    
 Script 12 - I create my_dir directory w 751 permissions   
 Script 13 - I change the group ownership of file hello from root to school    
+Script 14 - I change the owner and group owner for all files and directories in current directory    
 
