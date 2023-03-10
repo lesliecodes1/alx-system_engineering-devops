@@ -10,4 +10,5 @@ Script 8 - I give other users all permissions and remove them from owner and gro
 Script 9 - I add write permission to other users on the file hello    
 Script 10 - I mirror one file's permissions to another    
 Script 11 - I add execute permissions to all subdirectories in current directory    
+Script 12 - I create my_dir directory w 751 permissions   
 
