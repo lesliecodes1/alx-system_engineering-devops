@@ -13,5 +13,6 @@ Script 11 - I add execute permissions to all subdirectories in current directory
 Script 12 - I create my_dir directory w 751 permissions   
 Script 13 - I change the group ownership of file hello from root to school    
 Script 100 - I change the owner and group owner for all files and directories in current directory    
-Script 101 - I change the ownership of symbolic link to file hello    
+Script 101 - I change the ownership and group of file hello through symbolic file_hello     
+
 
