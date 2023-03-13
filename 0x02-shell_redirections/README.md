@@ -11,4 +11,5 @@ Script 9 - I duplicate the last line of the file iacta
 Script 10 - I delete all .js files cwd and all its subfolders    
 Script 11 - I make directories count    
 Script 12 - I display 10 newest files in current directory     
+Script 13 - I takes a list of words as input and print only words that appear exactly once    
 
