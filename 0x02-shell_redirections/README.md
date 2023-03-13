@@ -13,4 +13,12 @@ Script 11 - I make directories count
 Script 12 - I display 10 newest files in current directory     
 Script 13 - I takes a list of words as input and print only words that appear exactly once    
 Script 14 - I display lines containing the pattern “root” from the file /etc/passwd     
+Script 15 - Display the number of lines that contain the pattern “bin” in the file /etc/passwd     
+Script 16 - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd    
+Script 17 - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”    
+Script 18 - Display all lines of the file /etc/ssh/sshd_config starting with a letter      
+Script 19 - Replace all characters A and c from input to Z and e respectively     
+Script 20 - Removes all letters c and C from input     
+Script 21 - Reverse input      
+Script 22 - Display all users and their home directories, sorted by users     
 
