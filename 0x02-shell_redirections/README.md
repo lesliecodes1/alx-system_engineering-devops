@@ -21,4 +21,5 @@ Script 19 - Replace all characters A and c from input to Z and e respectively
 Script 20 - Removes all letters c and C from input     
 Script 21 - Reverse input      
 Script 22 - Display all users and their home directories, sorted by users     
+Script 100 - Finding skeletons in the closet    
 
