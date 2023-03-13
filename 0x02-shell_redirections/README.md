@@ -12,4 +12,5 @@ Script 10 - I delete all .js files cwd and all its subfolders
 Script 11 - I make directories count    
 Script 12 - I display 10 newest files in current directory     
 Script 13 - I takes a list of words as input and print only words that appear exactly once    
+Script 14 - I display lines containing the pattern “root” from the file /etc/passwd     
 
