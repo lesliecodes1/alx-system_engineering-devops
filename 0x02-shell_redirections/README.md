@@ -8,4 +8,5 @@ Script 6 - I display line 3 of file iacta
 Script 7 - I create a file that cuts iron    
 Script 8 - I save current state of directory     
 Script 9 - I duplicate the last line of the file iacta     
+Script 10 - I delete all .js files cwd and all its subfolders    
 
