@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -u my_file
+sort -u input.txt
