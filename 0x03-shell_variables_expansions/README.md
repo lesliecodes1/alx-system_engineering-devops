@@ -13,4 +13,5 @@ Script 11 - I convert a number from base 2 to base 10
 Script 12 - I print all possible combinations of two letters, except oo      
 Script 13 - I print a number with two decimal places, followed by a new line    
 Script 100 - I convert a number from base 10 to base 16      
- 
+Script 101 - I encode and decode text using the rot13 encryption       
+
